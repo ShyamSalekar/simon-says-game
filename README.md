@@ -52,6 +52,9 @@ cd simon-says-game
 open index.html 
 ``` 
 
+## Live link 
+(Click to see live.)https://shyamsalekar.github.io/simon-says-game/
+
 ## 📌 Future Improvements
 
 Add sound effects 🎵
